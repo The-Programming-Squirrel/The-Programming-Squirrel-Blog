@@ -4,6 +4,7 @@ gem "jekyll", "~> 3.10.0"
 gem "webrick"
 gem "kramdown-parser-gfm"
 gem "kramdown-syntax-coderay"
+gem "github-pages"
 
 group :jekyll_plugins do
 #   gem "jekyll-feed"
