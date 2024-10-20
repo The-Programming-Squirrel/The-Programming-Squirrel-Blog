@@ -14,7 +14,7 @@
         "alpinejs": "^3.2.3"
     },
     "devDependencies": {
-        "@symfony/webpack-encore": "^1.5.0",
+        "@symfony/webpack-encore": "^5.0.1",
         "@tailwindcss/forms": "^0.3.3",
         "@tailwindcss/typography": "^0.5.15",
         "autoprefixer": "^10.3.1",
