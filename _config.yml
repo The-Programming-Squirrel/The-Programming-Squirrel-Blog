@@ -19,11 +19,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my development content creator blog, "The Programming Squirrel," a platform for in-depth coding tutorials.
 baseurl: "/programming-squirrel-blog" # the subpath of your site, e.g. /blog
 url: "https://programming-squirrel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Programming-Squirrel
+github_username: " Programming-Squirrel"
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+kramdown:
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
+
 plugins:
   - jekyll-feed
 

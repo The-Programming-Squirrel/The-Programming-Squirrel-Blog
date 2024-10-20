@@ -16,4 +16,5 @@
     "peacock.color": "4C7276",
     "editor.fontFamily": "lmmono12-regular",
     "editor.fontSize": 15,
+    "editor.tabSize": 2,
 }
