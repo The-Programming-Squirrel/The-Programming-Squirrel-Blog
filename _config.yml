@@ -1,5 +1,5 @@
-title: Your awesome title
-description: My awesome site
+title: The Programming Squirrel
+description: "Welcome to my development content creator blog, 'The Programming Squirrel,' a platform for in-depth coding tutorials."
 permalink: /:slugified_categories/:title/
 
 date_format: "%b %-d, %Y"
